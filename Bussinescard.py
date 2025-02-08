@@ -11,7 +11,7 @@
 # ---------------------------------------------------------------------------------
 
 
-__version__ = (2, 0, 2)
+__version__ = (2, 0, 3)
 
 # module by:
 # █▀ █▄▀ █ █░░ █░░ ▀█
@@ -24,7 +24,7 @@ __version__ = (2, 0, 2)
 # meta developer: @skillzmeow, @anon97945
 
 # you can edit this module
-# 2022
+# 2025
 import logging
 
 from telethon.tl.types import Message
