@@ -1,16 +1,3 @@
-# ---------------------------------------------------------------------------------
-#  /\_/\  🌐 This module was loaded through https://t.me/hikkamods_bot
-# ( o.o )  🔓 Not licensed.
-#  > ^ <   ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
-# ---------------------------------------------------------------------------------
-# Name: BusinessCard
-# Description: Show your vizit card
-# Author: skillzmeow
-# Commands:
-# .vizit
-# ---------------------------------------------------------------------------------
-
-
 __version__ = (2, 0, 3)
 
 # module by:
